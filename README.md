@@ -1,2 +1,2 @@
 # 3DPrinting for electrode protective caps
-This .print file is in a format suitable for our printer, a Replicator+ printer accessed through Princeton University's Makerspace. 
+The .print file is in a format suitable for our printer, a Replicator+ printer accessed through Princeton University's Makerspace. Alternative caps were also designed by Princeton University's Princeton Neuroscience Institute Engineering & Design Team. These are the .stl files, and there are separate files for the base (i.e. the nut) and the top of the cap.  
